@@ -12,6 +12,7 @@ namespace Test
         {
             Console.WriteLine("Commit!");
             Console.WriteLine("word");
+            Console.WriteLine("This is my branch yo");
         }
     }
 }
